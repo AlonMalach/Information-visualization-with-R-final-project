@@ -1,7 +1,6 @@
 # Research on coronavirus cases in the US. 
 The following document include deep research about coronavirus statistic’s at US at all country the information gather from Wikipedia. 
 
-# Link : https://rpubs.com/Eitano/837767
 ### The project has 3 parts:
 
 1) Exploration of COVID concern and COVID cases
